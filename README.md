@@ -32,7 +32,7 @@ Crypto Miner is a Python project designed to encrypt and decrypt files, especial
 
 | Image                                     | Description                           | Image                                                       | Description                                                                   |
 | ----------------------------------------- | ------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <img src="data/image.png" width="150"  /> | Original image file before encryption | <img src="data/encrypted_visualization.png" width="150"  /> | Encrypted image file, which appears as random data without the decryption key |
+| <img src="data/image.png" width="300"  /> | Original image file before encryption | <img src="data/encrypted_visualization.png" width="300"  /> | Encrypted image file, which appears as random data without the decryption key |
 
 ## Contributing
 
