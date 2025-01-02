@@ -29,7 +29,7 @@ def encrypt_image(image_path, encrypt_path):
     with open(encrypt_path, "wb") as encrypted_file:
         encrypted_file.write(encrypted_image)
     
-    return encrypted_image  # Return the encrypted data.
+    return encrypted_image  # Return the encrypted data. 
 
 # Function to decrypt an encrypted image file.
 def decrypt_image(image_path, decrypt_path):
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     # Encrypt the image and get the encrypted data.
     encrypted_data = encrypt_image(original_image, encrypted_image)
 
-    # Visualize the encrypted binary data as an image.
+    # Visualize the encrypted binary data as an image. 
     visualize_encrypted_data(encrypted_data, visualization_image)
 
     # Decrypt the encrypted image back to its original form.
